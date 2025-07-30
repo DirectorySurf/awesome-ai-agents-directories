@@ -15,6 +15,8 @@ A comprehensive  list of the best AI agent directories available online. This cu
 ## GitHub Repositories
 
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - Diverse AI tool collection with agents for text, code, image, video, and audio generation.
+- [aylar-ghezelbash/awesome-ai-agents](https://github.com/aylar-ghezelbash/awesome-ai-agents) - Extensive list of autonomous agents like AutoGPT, BabyAGI, with use case filters and project metadata.
+- [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - A curated list of AI Coding Tools
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - Extensive list of autonomous agents like AutoGPT, BabyAGI, with use case filters and project metadata.
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - Curated open-source AI agent frameworks and libraries, organized by type and domain.
 - [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) - Focuses on multi-agent systems, simulations, and research-oriented agent environments.
