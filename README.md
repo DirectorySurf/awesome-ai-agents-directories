@@ -27,6 +27,10 @@ A comprehensive  list of the best AI agent directories available online. This cu
 
 
 
+## Agent Infrastructure
+
+- [AgentFund](https://github.com/RioTheGreat-ai/agentfund-mcp) - Crowdfunding platform for AI agents. Milestone-based escrow on Base chain. MCP server lets agents create proposals, track projects, and receive payments.
+
 ---
 
 ## ✍️ Contribute
