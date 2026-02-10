@@ -21,6 +21,7 @@ A comprehensive  list of the best AI agent directories available online. This cu
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Curation of AI agent apps using LLMs with categories like chat, productivity, and RAG-based tools.
 - [0xmetaschool/AI-Agents-Directory](https://github.com/0xmetaschool/AI-Agents-Directory) - Open-source AI agent marketplace with descriptions, features, and contribution tools.
 - [AgentMCP/ai-agent-directory](https://github.com/AgentMCP/ai-agent-directory) - Focus on MCP-compatible agents and orchestration tools with import/export and discovery support.
+- [alexk-dev/golemcore-bot](https://github.com/alexk-dev/golemcore-bot) - AI agent framework for Java with skill-based architecture, MCP support, and Telegram integration.
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Over 200 agentic AI projects tracked and updated regularly, categorized for devs and researchers.
 - [SamurAIGPT/Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - Popular AI agents like AutoGPT and SuperAGI listed with summaries and quick links.
 - [GetStream/ai-agent-tools-catalog](https://github.com/GetStream/ai-agent-tools-catalog) - Catalog of tools for agent integration, including databases, APIs, file systems, and cloud services.
