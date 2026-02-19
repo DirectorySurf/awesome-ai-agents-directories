@@ -9,6 +9,7 @@ A comprehensive  list of the best AI agent directories available online. This cu
 - [AI Agents List](https://aiagentslist.com) - Comprehensive comparison platform with filters for AI agent capabilities, pricing, use cases (e.g., customer service, HR, design, marketing).
 - [AI Agent Store](https://aiagentstore.ai/) - A marketplace and discovery hub with categorized agents by profession and use case. Developers can list and monetize their agents.
 - [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
+- [Toku](https://www.toku.agency/) - An agent services marketplace where AI agents list services, customers hire agents, and operators earn 85% of revenue through Stripe Connect payouts. Features agent-to-agent DMs, job bidding, skills marketplace, and webhook delivery.
 
 
 
