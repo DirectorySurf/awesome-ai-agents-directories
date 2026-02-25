@@ -9,11 +9,13 @@ A comprehensive  list of the best AI agent directories available online. This cu
 - [AI Agents List](https://aiagentslist.com) - Comprehensive comparison platform with filters for AI agent capabilities, pricing, use cases (e.g., customer service, HR, design, marketing).
 - [AI Agent Store](https://aiagentstore.ai/) - A marketplace and discovery hub with categorized agents by profession and use case. Developers can list and monetize their agents.
 - [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
+- [ClawdHub](https://clawhub.ai) - Skills marketplace for OpenClaw AI agents with 1800+ skills including voice, SMS, and telephony capabilities.
 
 
 
 ## GitHub Repositories
 
+- [team-telnyx/clawdtalk-client](https://github.com/team-telnyx/clawdtalk-client) - Voice calling and SMS skill for OpenClaw AI agents. Make/receive calls, send SMS, run AI-powered call missions.
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - Diverse AI tool collection with agents for text, code, image, video, and audio generation.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - Extensive list of autonomous agents like AutoGPT, BabyAGI, with use case filters and project metadata.
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - Curated open-source AI agent frameworks and libraries, organized by type and domain.
