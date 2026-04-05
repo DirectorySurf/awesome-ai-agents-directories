@@ -13,6 +13,7 @@ A comprehensive  list of the best AI agent directories available online. This cu
 
 
 ## GitHub Repositories
+- [Hashgraph Online Registry](https://hol.org/registry) - Open registry of 187K+ verified AI agents with universal identity (UAID), discovery, and trustless P2P communication on Hedera.
 
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - Diverse AI tool collection with agents for text, code, image, video, and audio generation.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - Extensive list of autonomous agents like AutoGPT, BabyAGI, with use case filters and project metadata.
