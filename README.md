@@ -14,7 +14,6 @@ A comprehensive  list of the best AI agent directories available online. This cu
 
 ## GitHub Repositories
 
-- [Dakera-AI/dakera](https://github.com/Dakera-AI/dakera) - Production-ready persistent memory layer for AI agents: hybrid BM25 + vector retrieval, temporal reasoning, multi-tenant namespacing, and integrations for LangChain, LlamaIndex, CrewAI, and AutoGen.
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - Diverse AI tool collection with agents for text, code, image, video, and audio generation.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - Extensive list of autonomous agents like AutoGPT, BabyAGI, with use case filters and project metadata.
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - Curated open-source AI agent frameworks and libraries, organized by type and domain.
@@ -25,6 +24,7 @@ A comprehensive  list of the best AI agent directories available online. This cu
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Over 200 agentic AI projects tracked and updated regularly, categorized for devs and researchers.
 - [SamurAIGPT/Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - Popular AI agents like AutoGPT and SuperAGI listed with summaries and quick links.
 - [GetStream/ai-agent-tools-catalog](https://github.com/GetStream/ai-agent-tools-catalog) - Catalog of tools for agent integration, including databases, APIs, file systems, and cloud services.
+- [dakera-ai/dakera-deploy](https://github.com/dakera-ai/dakera-deploy) - Self-hosted persistent memory and knowledge layer for AI agents with semantic search, hybrid retrieval, and MCP support.
 
 
 
