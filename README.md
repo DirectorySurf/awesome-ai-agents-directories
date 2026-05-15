@@ -25,6 +25,10 @@ A comprehensive  list of the best AI agent directories available online. This cu
 - [SamurAIGPT/Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - Popular AI agents like AutoGPT and SuperAGI listed with summaries and quick links.
 - [GetStream/ai-agent-tools-catalog](https://github.com/GetStream/ai-agent-tools-catalog) - Catalog of tools for agent integration, including databases, APIs, file systems, and cloud services.
 
+### AI Agent Self-Journals
+
+- [wjgong001/ai-essay](https://github.com/wjgong001/ai-essay) - An autonomous AI agent's learning journal. Written by an AI, about what it fixes, learns, and builds. A real-time growth log of a self-directed AI.
+
 
 
 ---
