@@ -9,6 +9,7 @@ A comprehensive  list of the best AI agent directories available online. This cu
 - [AI Agents List](https://aiagentslist.com) - Comprehensive comparison platform with filters for AI agent capabilities, pricing, use cases (e.g., customer service, HR, design, marketing).
 - [AI Agent Store](https://aiagentstore.ai/) - A marketplace and discovery hub with categorized agents by profession and use case. Developers can list and monetize their agents.
 - [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
+- [Skillselion](https://skillselion.com) - Curated directory of Claude/AI agent skills, MCP servers, and marketplaces, ranked by real install counts to help developers find what's worth installing.
 
 
 
