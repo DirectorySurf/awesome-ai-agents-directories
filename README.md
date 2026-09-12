@@ -17,6 +17,7 @@ A comprehensive  list of the best AI agent directories available online. This cu
 
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - Diverse AI tool collection with agents for text, code, image, video, and audio generation.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - Extensive list of autonomous agents like AutoGPT, BabyAGI, with use case filters and project metadata.
+- [harelos/foundry](https://github.com/harelos/foundry) - An open-source directory, local worker control room, and multi-agent task runner built on Node.js.
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - Curated open-source AI agent frameworks and libraries, organized by type and domain.
 - [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) - Focuses on multi-agent systems, simulations, and research-oriented agent environments.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Curation of AI agent apps using LLMs with categories like chat, productivity, and RAG-based tools.
