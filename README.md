@@ -25,6 +25,7 @@ A comprehensive  list of the best AI agent directories available online. This cu
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Over 200 agentic AI projects tracked and updated regularly, categorized for devs and researchers.
 - [SamurAIGPT/Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - Popular AI agents like AutoGPT and SuperAGI listed with summaries and quick links.
 - [GetStream/ai-agent-tools-catalog](https://github.com/GetStream/ai-agent-tools-catalog) - Catalog of tools for agent integration, including databases, APIs, file systems, and cloud services.
+- [satohubai/onchain-agents](https://github.com/satohubai/onchain-agents) - Daily-updated index of 380+ onchain agent tools — frameworks, MCP servers, wallets, payment rails — each scored 0-100 for how open, active and verifiable it is, with CC-BY data exports and a free MCP endpoint.
 
 
 
