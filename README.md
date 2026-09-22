@@ -11,6 +11,10 @@ A comprehensive  list of the best AI agent directories available online. This cu
 - [AI Agent Store](https://aiagentstore.ai/) - A marketplace and discovery hub with categorized agents by profession and use case. Developers can list and monetize their agents.
 - [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
 
+- [Glama MCP](https://glama.ai/mcp/servers) - Open MCP server directory with live connector health, ratings, and tool counts.
+- [Smithery](https://smithery.ai) - MCP server registry for installing and running servers inside Claude/Cursor-style clients.
+- [MCP.so](https://mcp.so) - Community MCP server directory with search, categories, and listing pages.
+
 
 
 ## GitHub Repositories
@@ -25,6 +29,7 @@ A comprehensive  list of the best AI agent directories available online. This cu
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Over 200 agentic AI projects tracked and updated regularly, categorized for devs and researchers.
 - [SamurAIGPT/Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - Popular AI agents like AutoGPT and SuperAGI listed with summaries and quick links.
 - [GetStream/ai-agent-tools-catalog](https://github.com/GetStream/ai-agent-tools-catalog) - Catalog of tools for agent integration, including databases, APIs, file systems, and cloud services.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - Large curated list of MCP servers across search, commerce, and tooling categories.
 
 
 
