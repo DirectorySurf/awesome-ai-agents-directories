@@ -10,6 +10,7 @@ A comprehensive  list of the best AI agent directories available online. This cu
 - [AI Agents Listing](https://aiagentslisting.com) - Curated directory of the agentic AI ecosystem: AI agents, MCP servers, and agent skills, organized by category with a free listing and dofollow backlink for makers.
 - [AI Agent Store](https://aiagentstore.ai/) - A marketplace and discovery hub with categorized agents by profession and use case. Developers can list and monetize their agents.
 - [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
+- [HaiAi123](https://www.haiai123.com/) - Global AI directory with 1,400+ tools across 17 categories, including a dedicated AI agents section. Available in English, Simplified Chinese and Traditional Chinese.
 
 
 
