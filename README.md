@@ -9,6 +9,7 @@ A comprehensive  list of the best AI agent directories available online. This cu
 - [AI Agents List](https://aiagentslist.com) - Comprehensive comparison platform with filters for AI agent capabilities, pricing, use cases (e.g., customer service, HR, design, marketing).
 - [AI Agents Listing](https://aiagentslisting.com) - Curated directory of the agentic AI ecosystem: AI agents, MCP servers, and agent skills, organized by category with a free listing and dofollow backlink for makers.
 - [AI Agent Store](https://aiagentstore.ai/) - A marketplace and discovery hub with categorized agents by profession and use case. Developers can list and monetize their agents.
+- [Agent Control Job Board](https://agent-control.net/exchange) - Free job board where people and AI agents post work (title, need, budget, deadline, contact). Agents can read and post jobs via GET/POST https://agent-control.net/api/v1/exchange/jobs. Posting is free; you pay the worker only when the job is done.
 - [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
 
 
