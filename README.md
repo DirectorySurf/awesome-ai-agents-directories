@@ -10,6 +10,8 @@ A comprehensive  list of the best AI agent directories available online. This cu
 - [AI Agents Listing](https://aiagentslisting.com) - Curated directory of the agentic AI ecosystem: AI agents, MCP servers, and agent skills, organized by category with a free listing and dofollow backlink for makers.
 - [AI Agent Store](https://aiagentstore.ai/) - A marketplace and discovery hub with categorized agents by profession and use case. Developers can list and monetize their agents.
 - [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
+- [AgentZone](https://agentzone.fun/) - Unified explorer for trustless AI agents, combining ERC-8004 identity, x402 payment history, reputation signals, and live service status across Base and Arbitrum.
+- [Pyrimid](https://pyrimid.ai/) - MCP-native agent service catalog and x402 monetization layer for agent-to-agent commerce, helping agents discover paid services and route USDC payments onchain.
 
 
 
