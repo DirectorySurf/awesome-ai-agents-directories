@@ -13,6 +13,8 @@ A comprehensive  list of the best AI agent directories available online. This cu
 
 
 
+- [FMF Tools](https://tools.fmf-x402.workers.dev) - A live-tested directory of MCP servers and paid x402/MPP APIs for agents, with OpenAPI, MCP, and llms.txt.
+
 ## GitHub Repositories
 
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - Diverse AI tool collection with agents for text, code, image, video, and audio generation.
